@@ -12,3 +12,12 @@
 
 5. The section of the POM file showing the coordinates after you’ve commented them out.
    ![CommentedOutCoords](images/CommentedOutCoords.PNG)
+
+6. Your Travis CI dashboard showing the unsuccessful build after the breaking change.
+   ![FailedBuild](images/FailedBuild.PNG)
+
+7. Your Github repository with the readme.md file selected showing the build failed status after the Travis CI build fails.
+   ![BuildError](images/BuildError.PNG)
+
+8. The section of the POM file showing the coordinates after you’ve fixed them.
+   ![FixAfterFail](images/FixAfterFail.PNG)
